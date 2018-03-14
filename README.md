@@ -24,6 +24,6 @@ Algorithm
 
 |   Title  | Solution |
 | -------- | -------- |
-| Goat to Latin | [C++] (./algorithm/FB/Goat_to_Latin.cpp) |
-| Battleship | [C++] (./algorithm/FB/battleship.cpp)|
-| Dinosaurs | [C++] (./algorithm/FB/dinosaurs.cpp)|
+| Goat to Latin | [C++](./algorithm/FB/Goat_to_Latin.cpp) |
+| Battleship | [C++](./algorithm/FB/battleship.cpp)|
+| Dinosaurs | [C++](./algorithm/FB/dinosaurs.cpp)|
