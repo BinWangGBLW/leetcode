@@ -16,3 +16,14 @@ LeetCode
 |144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/) | [C++](./leetcode/tree/144-Binary-Tree-Preorder-Traversal.cpp)|Medium|
 |298|[Binary Tree Longest Consecutive Sequence](https://leetcode.com/problems/binary-tree-longest-consecutive-sequence/description/) | [C++](./leetcode/tree/298-Binary-Tree-Longest-Consecutive-Sequence.cpp)|Medium|
 
+Algorithm
+========
+
+### FB Interview Questions
+
+
+|   Title  | Solution |
+| -------- | -------- |
+| Goat to Latin | [C++] (./algorithm/FB/Goat_to_Latin.cpp) |
+| Battleship | [C++] (./algorithm/FB/battleship.cpp)|
+| Dinosaurs | [C++] (./algorithm/FB/dinosaurs.cpp)|
