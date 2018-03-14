@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [C++](./leetcode/tree/)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [C++](./leetcode/tree//94-Binary-Tree-Inorder-Traversal.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./leetcode/tree/100-Same-Tree.cpp)|Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./leetcode/tree/103-Binary-Tree-Zigzag-Level-Order-Traversal.cpp)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](./leetcode/tree/104-Maximum-Depth-of-Binary-Tree.cpp)|Easy|
@@ -27,3 +27,16 @@ Algorithm
 | Goat to Latin | [C++](./algorithm/FB/Goat_to_Latin.cpp) |
 | Battleship | [C++](./algorithm/FB/battleship.cpp)|
 | Dinosaurs | [C++](./algorithm/FB/dinosaurs.cpp)|
+
+System
+========
+
+### System and Script Questions
+
+|   Title  | Solution |
+| -------- | -------- |
+|Implement file replace | [C++](./system/FB/implement_file_replace.cpp) |
+| Implement tail -n file | [C++](./system/FB/implement_tail.cpp) |
+| Replace the keywords | [C++](./system/FB/replace.sh) |
+| Resolve IP address | [C++](./system/FB/resolve.cpp) |
+| Profile and send email | [C++](./system/FB/sendemail.sh) |
