@@ -38,4 +38,4 @@ System
 | Implement tail -n file | [C++](./system/FB/implement_tail.cpp) | Print the last lines of a file |
 | Replace the keywords | [C++](./system/FB/implement_file_replace.cpp) [Bash](./system/FB/replace.sh) | Replace the origin word with new word |
 | Resolve IP address | [C++](./system/FB/resolve.cpp) | Reads a list of hostnames and resolves each IP address |
-| Profile and send email | [C++](./system/FB/sendemail.sh) | Profile vmstat and send abnormal event to email |
+| Profile and send email | [Bash](./system/FB/sendemail.sh) | Profile vmstat and send abnormal event to email |
