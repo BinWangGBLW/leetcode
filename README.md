@@ -21,9 +21,9 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-||[]() | [C++](./leetcode/string/)||
-||[]() | [C++](./leetcode/string/)||
-||[]() | [C++](./leetcode/string/)||
+|340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [C++](./leetcode/string/340-Longest-Substring-with-At-Most-K-Distinct-Characters.cpp)||
+|418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/) | [C++](./leetcode/string/418-Sentence-Screen-Fitting.cpp)||
+|482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [C++](./leetcode/string/482-License-Key-Formatting.cpp)||
 
 Algorithm
 ========
