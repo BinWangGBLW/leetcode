@@ -31,7 +31,7 @@ Algorithm
 System
 ========
 
-### System and Script Questions
+### FB Interview Questions
 
 |   Title  | Solution |
 | -------- | -------- |
