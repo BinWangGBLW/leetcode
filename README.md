@@ -25,6 +25,9 @@ LeetCode
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/) | [C++](./leetcode/string/418-Sentence-Screen-Fitting.cpp)|Medium|
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [C++](./leetcode/string/482-License-Key-Formatting.cpp)|Easy|
 
+
+### Dynamic Program
+
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./leetcode/dp/62-Unique-Paths.cpp) | Medium |
