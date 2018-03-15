@@ -38,6 +38,11 @@ Algorithm
 | Dinosaurs | [C++](./algorithm/FB/dinosaurs.cpp)| According to the feature of file2 to print file1 |
 | [Convert a Binary Tree to a Circular Doubly Link List](https://www.geeksforgeeks.org/convert-a-binary-tree-to-a-circular-doubly-link-list/) | [C++](./algorithm/FB/BST-CTLL.cpp)| Given a Binary Tree, convert it to a Circular Doubly Linked List (In-Place). |
 
+
+|   Title  | Solution | Description |
+| -------- | -------- | -------- |
+| Decompress String | [C++](./algorithm/Gugo/decompress-string.cpp) | a(b(c){2}){2}d will be decompressed as abccbccd |
+
 System
 ========
 
