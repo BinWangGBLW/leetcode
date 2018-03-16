@@ -5,7 +5,7 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [C++](./leetcode/tree//94-Binary-Tree-Inorder-Traversal.cpp)|Medium|
+|94|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal) | [C++](./leetcode/tree/94-Binary-Tree-Inorder-Traversal.cpp)|Medium|
 |100|[Same Tree](https://leetcode.com/problems/same-tree/) | [C++](./leetcode/tree/100-Same-Tree.cpp)|Easy|
 |103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [C++](./leetcode/tree/103-Binary-Tree-Zigzag-Level-Order-Traversal.cpp)|Medium|
 |104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | [C++](./leetcode/tree/104-Maximum-Depth-of-Binary-Tree.cpp)|Easy|
@@ -31,6 +31,42 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 | 62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [C++](./leetcode/dp/62-Unique-Paths.cpp) | Medium |
+
+### Apple Question
+
+| # | Title | Solution | Difficulty |
+|---| ----- | -------- | ---------- |
+|1|[Two Sum]() | [C++](./leetcode/apple/1-Two-Sum.cpp)|Easy|
+|118|[Pascals Triangle]() | [C++](./leetcode/apple/118-Pascals-Triangle.cpp)||
+|149|[Max Points on a Line]() | [C++](./leetcode/apple/149-Max-Points-on-a-Line.cpp)||
+|151|[Reverse Words in a String]() | [C++](./leetcode/apple/151-Reverse-Words-in-a-String.cpp)||
+|165|[Compare Version Numbers]() | [C++](./leetcode/apple/165-Compare-Version-Numbers.cpp)||
+|190|[Reverse Bits]() | [C++](./leetcode/apple/190-Reverse-Bits.cpp)||
+|191|[Number-of-1-Bits]() | [C++](./leetcode/apple/191-Number-of-1-Bits.cpp)||
+|206|[Reverse Linked List]() | [C++](./leetcode/apple/206-Reverse-Linked-List.cpp)||
+|207|[Course Schedule]() | [C++](./leetcode/apple/207-Course-Schedule.cpp)||
+|21|[Merge-Two-Sorted-Lists]() | [C++](./leetcode/apple/21-Merge-Two-Sorted-Lists.cpp)||
+|215|[Kth Largest Element in an Array]() | [C++](./leetcode/apple/215-Kth-Largest-Element-in-an-Array.cpp)||
+|221|[Maximal Square]() | [C++](./leetcode/apple/221-Maximal-Square.cpp)||
+|237|[Delete Node in a Linked List]() | [C++](./leetcode/apple/237-Delete-Node-in-a-Linked-List.cpp)||
+|238|[Product of Array Except Self]() | [C++](./leetcode/apple/238-Product-of-Array-Except-Self.cpp)||
+|240|[Search a 2D Matrix II]() | [C++](./leetcode/apple/240-Search-a-2D-Matrix-II.cpp)||
+|257|[Binary Tree Paths]() | [C++](./leetcode/apple/257-Binary-Tree-Paths.cpp)||
+|28|[Implement strStr]() | [C++](./leetcode/apple/28-Implement-strStr.cpp)||
+|284|[Peeking Iterator]() | [C++](./leetcode/apple/284-Peeking-Iterator.cpp)||
+|36|[Valid Sudoku]() | [C++](./leetcode/apple/36-Valid-Sudoku.cpp)||
+|383|[Ransom Note]() | [C++](./leetcode/apple/383-Ransom-Note.cpp)||
+|4|[Median of Two Sorted Arrays]() | [C++](./leetcode/apple/4-Median-of-Two-Sorted-Arrays.cpp)||
+|42|[Trapping Rain Water]() | [C++](./leetcode/apple/42-Trapping-Rain-Water.cpp)||
+|461|[Hamming Distance]() | [C++](./leetcode/apple/461-Hamming-Distance.cpp)||
+|48|[Rotate Image]() | [C++](./leetcode/apple/48-Rotate-Image.cpp)||
+|565|[Array Nesting]() | [C++](./leetcode/apple/565-Array-Nesting.cpp)||
+|69|[Sqrt(x)]() | [C++](./leetcode/apple/69-Sqrtx.cpp)||
+|7|[Reverse Integer]() | [C++](./leetcode/apple/7-Reverse-Integer.cpp)||
+|70|[Climbing Stairs]() | [C++](./leetcode/apple/70-Climbing-Stairs.cpp)||
+|737|[Sentence Similarity II]() | [C++](./leetcode/apple/737-Sentence-Similarity-II.cpp)||
+|92|[Reverse Linked List II]() | [C++](./leetcode/apple/92-Reverse-Linked-List-II.cpp)||
+
 
 Algorithm
 ========
