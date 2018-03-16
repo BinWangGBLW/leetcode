@@ -36,36 +36,36 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|[Two Sum]() | [C++](./leetcode/apple/1-Two-Sum.cpp)|Easy|
-|118|[Pascals Triangle]() | [C++](./leetcode/apple/118-Pascals-Triangle.cpp)||
-|149|[Max Points on a Line]() | [C++](./leetcode/apple/149-Max-Points-on-a-Line.cpp)||
-|151|[Reverse Words in a String]() | [C++](./leetcode/apple/151-Reverse-Words-in-a-String.cpp)||
-|165|[Compare Version Numbers]() | [C++](./leetcode/apple/165-Compare-Version-Numbers.cpp)||
-|190|[Reverse Bits]() | [C++](./leetcode/apple/190-Reverse-Bits.cpp)||
-|191|[Number-of-1-Bits]() | [C++](./leetcode/apple/191-Number-of-1-Bits.cpp)||
-|206|[Reverse Linked List]() | [C++](./leetcode/apple/206-Reverse-Linked-List.cpp)||
-|207|[Course Schedule]() | [C++](./leetcode/apple/207-Course-Schedule.cpp)||
-|21|[Merge-Two-Sorted-Lists]() | [C++](./leetcode/apple/21-Merge-Two-Sorted-Lists.cpp)||
-|215|[Kth Largest Element in an Array]() | [C++](./leetcode/apple/215-Kth-Largest-Element-in-an-Array.cpp)||
-|221|[Maximal Square]() | [C++](./leetcode/apple/221-Maximal-Square.cpp)||
-|237|[Delete Node in a Linked List]() | [C++](./leetcode/apple/237-Delete-Node-in-a-Linked-List.cpp)||
-|238|[Product of Array Except Self]() | [C++](./leetcode/apple/238-Product-of-Array-Except-Self.cpp)||
-|240|[Search a 2D Matrix II]() | [C++](./leetcode/apple/240-Search-a-2D-Matrix-II.cpp)||
-|257|[Binary Tree Paths]() | [C++](./leetcode/apple/257-Binary-Tree-Paths.cpp)||
-|28|[Implement strStr]() | [C++](./leetcode/apple/28-Implement-strStr.cpp)||
-|284|[Peeking Iterator]() | [C++](./leetcode/apple/284-Peeking-Iterator.cpp)||
-|36|[Valid Sudoku]() | [C++](./leetcode/apple/36-Valid-Sudoku.cpp)||
-|383|[Ransom Note]() | [C++](./leetcode/apple/383-Ransom-Note.cpp)||
-|4|[Median of Two Sorted Arrays]() | [C++](./leetcode/apple/4-Median-of-Two-Sorted-Arrays.cpp)||
-|42|[Trapping Rain Water]() | [C++](./leetcode/apple/42-Trapping-Rain-Water.cpp)||
-|461|[Hamming Distance]() | [C++](./leetcode/apple/461-Hamming-Distance.cpp)||
-|48|[Rotate Image]() | [C++](./leetcode/apple/48-Rotate-Image.cpp)||
-|565|[Array Nesting]() | [C++](./leetcode/apple/565-Array-Nesting.cpp)||
-|69|[Sqrt(x)]() | [C++](./leetcode/apple/69-Sqrtx.cpp)||
-|7|[Reverse Integer]() | [C++](./leetcode/apple/7-Reverse-Integer.cpp)||
-|70|[Climbing Stairs]() | [C++](./leetcode/apple/70-Climbing-Stairs.cpp)||
-|737|[Sentence Similarity II]() | [C++](./leetcode/apple/737-Sentence-Similarity-II.cpp)||
-|92|[Reverse Linked List II]() | [C++](./leetcode/apple/92-Reverse-Linked-List-II.cpp)||
+|1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./leetcode/apple/1-Two-Sum.cpp)|Easy|
+|118|[Pascals Triangle](https://leetcode.com/problems/two-sum/description/) | [C++](./leetcode/apple/118-Pascals-Triangle.cpp)|Easy|
+|149|[Max Points on a Line](https://leetcode.com/problems/two-sum/description/) | [C++](./leetcode/apple/149-Max-Points-on-a-Line.cpp)|Hard|
+|151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [C++](./leetcode/apple/151-Reverse-Words-in-a-String.cpp)|Medium|
+|165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | [C++](./leetcode/apple/165-Compare-Version-Numbers.cpp)||
+|190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/description/) | [C++](./leetcode/apple/190-Reverse-Bits.cpp)|Easy|
+|191|[Number-of-1-Bits](https://leetcode.com/problems/reverse-bits/description/) | [C++](./leetcode/apple/191-Number-of-1-Bits.cpp)|Easy|
+|206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](./leetcode/apple/206-Reverse-Linked-List.cpp)|Easy|
+|207|[Course Schedule](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](./leetcode/apple/207-Course-Schedule.cpp)|Medium|
+|21|[Merge-Two-Sorted-Lists](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](./leetcode/apple/21-Merge-Two-Sorted-Lists.cpp)|Easy|
+|215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](./leetcode/apple/215-Kth-Largest-Element-in-an-Array.cpp)|Medium|
+|221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/) | [C++](./leetcode/apple/221-Maximal-Square.cpp)|Medium|
+|237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [C++](./leetcode/apple/237-Delete-Node-in-a-Linked-List.cpp)|Easy|
+|238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [C++](./leetcode/apple/238-Product-of-Array-Except-Self.cpp)|Medium|
+|240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [C++](./leetcode/apple/240-Search-a-2D-Matrix-II.cpp)|Medium|
+|257|[Binary Tree Paths](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [C++](./leetcode/apple/257-Binary-Tree-Paths.cpp)|Medium|
+|28|[Implement strStr](https://leetcode.com/problems/implement-strstr) | [C++](./leetcode/apple/28-Implement-strStr.cpp)|Easy|
+|284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) | [C++](./leetcode/apple/284-Peeking-Iterator.cpp)|Medium|
+|36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [C++](./leetcode/apple/36-Valid-Sudoku.cpp)|Medium|
+|383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [C++](./leetcode/apple/383-Ransom-Note.cpp)|Easy|
+|4|[Median of Two Sorted Arrays]() | [C++](./leetcode/apple/4-Median-of-Two-Sorted-Arrays.cpp)|Hard|
+|42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [C++](./leetcode/apple/42-Trapping-Rain-Water.cpp)|Hard|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C++](./leetcode/apple/461-Hamming-Distance.cpp)|Easy|
+|48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./leetcode/apple/48-Rotate-Image.cpp)|Medium|
+|565|[Array Nesting](https://leetcode.com/problems/rotate-image/description/) | [C++](./leetcode/apple/565-Array-Nesting.cpp)|Medium|
+|69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./leetcode/apple/69-Sqrtx.cpp)|Easy|
+|7|[Reverse Integer](https://leetcode.com/problems/sqrtx/) | [C++](./leetcode/apple/7-Reverse-Integer.cpp)|Medium|
+|70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](./leetcode/apple/70-Climbing-Stairs.cpp)|Easy|
+|737|[Sentence Similarity II](https://leetcode.com/problems/sentence-similarity-ii/description/) | [C++](./leetcode/apple/737-Sentence-Similarity-II.cpp)|Medium|
+|92|[Reverse Linked List II](https://leetcode.com/problems/sentence-similarity-ii/description/) | [C++](./leetcode/apple/92-Reverse-Linked-List-II.cpp)|Medium|
 
 
 Algorithm
