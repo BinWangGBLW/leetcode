@@ -8,7 +8,9 @@ LeetCode
 |1|[Two Sum](https://leetcode.com/problems/two-sum/description/) | [C++](./leetcode/apple/1-Two-Sum.cpp)|Easy|
 |4|[Median of Two Sorted Arrays]() | [C++](./leetcode/apple/4-Median-of-Two-Sorted-Arrays.cpp)|Hard|
 |7|[Reverse Integer](https://leetcode.com/problems/sqrtx/) | [C++](./leetcode/apple/7-Reverse-Integer.cpp)|Medium|
+|45| [Jump Game II](https://leetcode.com/problems/find-duplicate-file-in-system/description/) |[C++](./leetcode/apple/extend/45-Jump-Game-II-Hard.cpp) | Hard |
 |48|[Rotate Image](https://leetcode.com/problems/rotate-image/description/) | [C++](./leetcode/apple/48-Rotate-Image.cpp)|Medium|
+|56| [Merge Intervals](https://leetcode.com/problems/find-duplicate-file-in-system/description/) |[C++](./leetcode/apple/extend/56-Merge-Intervals-Easy.cpp) | Easy |
 |69|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [C++](./leetcode/apple/69-Sqrtx.cpp)|Easy|
 |70|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/) | [C++](./leetcode/apple/70-Climbing-Stairs.cpp)|Easy|
 |118|[Pascals Triangle](https://leetcode.com/problems/two-sum/description/) | [C++](./leetcode/apple/118-Pascals-Triangle.cpp)|Easy|
@@ -17,6 +19,7 @@ LeetCode
 |191|[Number-of-1-Bits](https://leetcode.com/problems/reverse-bits/description/) | [C++](./leetcode/apple/191-Number-of-1-Bits.cpp)|Easy|
 |215|[Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/description/) | [C++](./leetcode/apple/215-Kth-Largest-Element-in-an-Array.cpp)|Medium|
 |238|[Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/) | [C++](./leetcode/apple/238-Product-of-Array-Except-Self.cpp)|Medium|
+|283| [Move Zeroes](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[C++](./leetcode/apple/extend/283-Move-Zeroes-Easy.cpp) | Easy |
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/description/) | [C++](./leetcode/apple/461-Hamming-Distance.cpp)|Easy|
 
 ### Link List
@@ -25,8 +28,10 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |21|[Merge-Two-Sorted-Lists](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](./leetcode/apple/21-Merge-Two-Sorted-Lists.cpp)|Easy|
 |92|[Reverse Linked List II](https://leetcode.com/problems/sentence-similarity-ii/description/) | [C++](./leetcode/apple/92-Reverse-Linked-List-II.cpp)|Medium|
+|138| [Copy List with Random Pointer](https://leetcode.com/problems/palindrome-permutation/description/) |[C++](./leetcode/apple/extend/138-Copy-List-with-Random-Pointer.cpp) | Medium |
 |206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](./leetcode/apple/206-Reverse-Linked-List.cpp)|Easy|
 |237|[Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/) | [C++](./leetcode/apple/237-Delete-Node-in-a-Linked-List.cpp)|Easy|
+
 
 
 ### Tree, Binary Tree, Binary Search Tree
@@ -49,13 +54,21 @@ LeetCode
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
+|3| [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) |[C++](./leetcode/apple/extend/3-Longest-Substring-Without-Repeating-Characters-Medium.cpp) | Medium |
+|8|[String to Integer (atoi)](https://leetcode.com/problems/find-duplicate-file-in-system/description/) |[C++](./leetcode/apple/extend/8-String-to-Integer-(atoi)-Medium.cpp) | Medium |
 |28|[Implement strStr](https://leetcode.com/problems/implement-strstr) | [C++](./leetcode/apple/28-Implement-strStr.cpp)|Easy|
 |151|[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/) | [C++](./leetcode/apple/151-Reverse-Words-in-a-String.cpp)|Medium|
 |165|[Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/) | [C++](./leetcode/apple/165-Compare-Version-Numbers.cpp)|Medium|
+|249| [Group Shifted Strings](https://leetcode.com/problems/palindrome-permutation/description/) |[C++](./leetcode/apple/extend/249-Group-Shifted-Strings-Medium.cpp) | Medium |
+|266| [Palindrome Permutation](https://leetcode.com/problems/palindrome-permutation/description/) |[C++](./leetcode/apple/extend/266-Palindrome-Permutation.Easy.cpp) | Easy |
 |340|[Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters/description/) | [C++](./leetcode/string/340-Longest-Substring-with-At-Most-K-Distinct-Characters.cpp)|Hard|
+|344| [Reverse String](https://leetcode.com/problems/reverse-string/description/) |[C++](./leetcode/apple/extend/344-Reverse-String-Easy.cpp) | Easy |
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/description/) | [C++](./leetcode/apple/383-Ransom-Note.cpp)|Easy|
 |418|[Sentence Screen Fitting](https://leetcode.com/problems/sentence-screen-fitting/description/) | [C++](./leetcode/string/418-Sentence-Screen-Fitting.cpp)|Medium|
+|443|[String Compression](https://leetcode.com/problems/string-compression/description/) |[C++](./leetcode/apple/extend/443-String-Compression-Easy.cpp) | Easy |
 |482|[License Key Formatting](https://leetcode.com/problems/license-key-formatting/description/) | [C++](./leetcode/string/482-License-Key-Formatting.cpp)|Easy|
+|609| [Find Duplicate File in System](https://leetcode.com/problems/find-duplicate-file-in-system/description/) |[C++](./leetcode/apple/extend/609-Find-Duplicate-File-in-System-Medium.cpp) | Medium |
+
 
 
 ### Dynamic Program
@@ -71,6 +84,8 @@ LeetCode
 |---| ----- | -------- | ---------- |
 |36|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/description/) | [C++](./leetcode/apple/36-Valid-Sudoku.cpp)|Medium|
 |42|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/description/) | [C++](./leetcode/apple/42-Trapping-Rain-Water.cpp)|Hard|
+|49|[Group Anagrams](https://leetcode.com/problems/find-duplicate-file-in-system/description/) |[C++](./leetcode/apple/extend/49-Group-Anagrams-Medium.cpp) | Medium |
+|126| [Word Ladder II](https://leetcode.com/problems/palindrome-permutation/description/) |[C++](./leetcode/apple/extend/126-Word-Ladder-II-Hard.cpp) | Hard |
 |207|[Course Schedule](https://leetcode.com/problems/reverse-linked-list/description/) | [C++](./leetcode/apple/207-Course-Schedule.cpp)|Medium|
 |221|[Maximal Square](https://leetcode.com/problems/maximal-square/description/) | [C++](./leetcode/apple/221-Maximal-Square.cpp)|Medium|
 |240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/description/) | [C++](./leetcode/apple/240-Search-a-2D-Matrix-II.cpp)|Medium|
@@ -83,7 +98,6 @@ LeetCode
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |284|[Peeking Iterator](https://leetcode.com/problems/peeking-iterator/description/) | [C++](./leetcode/apple/284-Peeking-Iterator.cpp)|Medium|
-
 
 
 Algorithm
