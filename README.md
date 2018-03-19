@@ -137,3 +137,4 @@ System
 | -------- | -------- |
 | 6.828 / 2014 Falls | [MIT OS Course, Focus on XV6 and JOS](https://pdos.csail.mit.edu/6.828/2014/schedule.html) |
 | 6.828 / 2014 Videos | [MIT OS Course, Videos from YouTube](https://www.youtube.com/watch?v=kDRHsNauoxk&list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) | 
+| 6.828 /2014 JOS| [The JOS labs from MIT OS Course](https://pdos.csail.mit.edu/6.828/2014/jos.git/) |
