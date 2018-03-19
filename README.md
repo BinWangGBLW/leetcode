@@ -130,3 +130,10 @@ System
 | Replace the keywords | [C++](./system/FB/implement_file_replace.cpp) [Bash](./system/FB/replace.sh) | Replace the origin word with new word |
 | Resolve IP address | [C++](./system/FB/resolve.cpp) | Reads a list of hostnames and resolves each IP address |
 | Profile and send email | [Bash](./system/FB/sendemail.sh) | Profile vmstat and send abnormal event to email |
+
+### Operating System Course and Labs
+
+|  Title | Descrition |
+| -------- | -------- |
+| 6.828 / 2014 Falls | [MIT OS Course, Focus on XV6 and JOS](https://pdos.csail.mit.edu/6.828/2014/schedule.html) |
+| 6.828 / 2014 Videos | [[MIT OS Course, Videos from YouTube](https://www.youtube.com/watch?v=kDRHsNauoxk&list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP) | 
